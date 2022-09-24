@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -115,8 +116,11 @@ namespace ShoonyaPe.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<CategoryExpenseReponseModel>> GetCatgoryTransactions(int userId, DateTime startDate,DateTime endDate)
+        public async Task<IEnumerable<CategoryExpenseReponseModel>> GetCatgoryTransactions(int userId, string Inputmonth)
         {
+            var month = DateTime.ParseExact(Inputmonth, "MMMM", CultureInfo.CurrentCulture).Month;
+            var startDate = new DateTime(DateTime.Now.Year, month, 1);
+            var endDate = new DateTime(DateTime.Now.Year, month, 30); 
             var query =
                 "Select * from Transactions where UserId={userId} and TRANSACTIONDATE >={startDate} and TRANSACTIONDATE <= {endDate}";
             var sqlConnection = new SqlConnection(_sqlConnectionString);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCoxnIiyPc/IbwimasdDiWoAZiSiFcoPMeoGF9sp6xALFJRFTiIYchaNK2a9gudwRZPcGf9a4lcKcmWcYSzWDg==",
+  "dgSpecHash": "bsvCD/NGNtxbYeBDHBdUTNU7qQhINghwPDJxfdkmqypy//yaTLgTKR++h/W8lpvizuJ0TA3RwAE7ZXiRrW3alQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
+  "projectFilePath": "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

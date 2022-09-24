@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj": {}
+    "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj": {
+    "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
+        "projectUniqueName": "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
         "projectName": "ShoonyaPe",
-        "projectPath": "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
+        "projectPath": "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\ShoonyaPe.csproj",
         "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikhi\\source\\repos\\ShoonyaPe\\ShoonyaPe\\obj\\",
+        "outputPath": "C:\\Users\\nikhi\\source\\repos\\shoonyaPe\\ShoonyaPe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

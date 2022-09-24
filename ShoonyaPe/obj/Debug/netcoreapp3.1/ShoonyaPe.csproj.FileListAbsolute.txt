@@ -1,0 +1,9 @@
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\ShoonyaPe.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\ShoonyaPe.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\ShoonyaPe.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\ShoonyaPe.RazorTargetAssemblyInfo.cache
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\staticwebassets\ShoonyaPe.StaticWebAssets.Manifest.cache
+C:\Users\nikhi\source\repos\ShoonyaPe\ShoonyaPe\obj\Debug\netcoreapp3.1\staticwebassets\ShoonyaPe.StaticWebAssets.xml

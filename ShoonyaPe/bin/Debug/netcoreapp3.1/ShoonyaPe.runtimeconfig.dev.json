@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gaurav.bansal@avalara.com/.dotnet/store/|arch|/|tfm|",
+      "/Users/gaurav.bansal@avalara.com/.nuget/packages"
+    ]
+  }
+}
